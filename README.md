@@ -1,6 +1,6 @@
 # Gno Alerters
 
-![Gno Alerters](https://github.com/gnoverse/gno-alerters/blob/master/.github/assets/banner.png?raw=true)
+![Gno Alerters](https://github.com/gnoverse/gno-alerters/blob/master/.github/assets/banner.png?raw=true | =250x250)
 
 A suite of alerting tools for monitoring and responding to events within the Gno blockchain ecosystem. Gno Alerters helps developers and operators maintain system reliability by detecting anomalies and notifying stakeholders in real-time.
 
