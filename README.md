@@ -13,6 +13,7 @@ A suite of alerting tools for monitoring and responding to events within the Gno
     - Detect when the network is stalled for a defined period.
     - Identify validators who miss a consecutive number of defined blocks.
 
+![slack alert example](https://github.com/gnoverse/gno-alerters/blob/master/.github/assets/ex-slack-alerts.png?raw=true)
 
 ## Installation
 
