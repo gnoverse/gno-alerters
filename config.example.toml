@@ -1,0 +1,10 @@
+[rpc]
+endpoint = "http://localhost:26657"
+
+[slack]
+token      = "xoxb-4242"
+channel_id = "XXXXXXX"
+
+[alerts]
+stalled_period = "30s"
+consecutive_missed = [20, 100, 500]
